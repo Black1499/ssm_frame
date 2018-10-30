@@ -127,6 +127,13 @@
       <version>${spring.version}</version>
       <scope>test</scope>
     </dependency>
+    
+    <!-- 表单验证 -->
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate-validator</artifactId>
+      <version>6.0.13.Final</version>
+    </dependency>
   </dependencies>
 
   <build>
