@@ -30,7 +30,7 @@
         </javaClientGenerator>
 
         <table tableName="employee">
-            <property name="useActualColumnNames" value="true"/>
+            <property name="useActualColumnNames" value="false"/>
         </table>
     </context>
 </generatorConfiguration>
